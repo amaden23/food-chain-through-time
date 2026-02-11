@@ -1,0 +1,813 @@
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Allosaurus
+Mode: PAST, Grid: 10x10, Total Rounds: 15
+Food Chain Loaded: Giganotosaurus -> Allosaurus -> Stegosaurus -> Cycads
+
+Raund 1
+Stegosaurus (Prey) moved to (5, 8)
+Allosaurus (Player/Predator) moved to (2, 0)
+Giganotosaurus (Apex) moved to (4, 1)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Stegosaurus (Prey) moved to (6, 7)
+Allosaurus (Player/Predator) moved to (1, 1)
+Giganotosaurus (Apex) moved to (3, 1)
+Round 2 completed.
+
+------------------------------------------------------
+
+Raund 3
+Stegosaurus (Prey) moved to (7, 7)
+Allosaurus (Player/Predator) moved to (1, 2)
+Giganotosaurus (Apex) moved to (2, 2)
+Round 3 completed.
+
+------------------------------------------------------
+
+Raund 4
+Stegosaurus (Prey) moved to (8, 8)
+Allosaurus (Player/Predator) moved to (1, 4)
+Giganotosaurus (Apex) moved to (2, 4)
+Round 4 completed.
+
+------------------------------------------------------
+
+Raund 5
+Stegosaurus (Prey) ATE FOOD at (9,7)
+Stegosaurus (Prey) moved to (9, 7)
+Allosaurus (Player/Predator) moved to (1, 5)
+Giganotosaurus (Apex) ATE Allosaurus at (1,5)
+Player loses -1 point.
+Giganotosaurus (Apex) moved to (1, 5)
+Round 5 completed.
+
+------------------------------------------------------
+
+Raund 6
+Stegosaurus (Prey) moved to (8, 6)
+Allosaurus (Player/Predator) moved to (1, 7)
+Giganotosaurus (Apex) moved to (1, 6)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Stegosaurus (Prey) moved to (7, 5)
+Allosaurus (Player/Predator) moved to (3, 7)
+Giganotosaurus (Apex) moved to (3, 6)
+Round 7 completed.
+
+------------------------------------------------------
+
+Raund 8
+Stegosaurus (Prey) moved to (6, 4)
+Allosaurus (Player/Predator) moved to (4, 8)
+Giganotosaurus (Apex) moved to (4, 7)
+Round 8 completed.
+
+------------------------------------------------------
+
+Raund 9
+Stegosaurus (Prey) moved to (6, 5)
+Allosaurus (Player/Predator) moved to (3, 9)
+Giganotosaurus (Apex) moved to (3, 8)
+Round 9 completed.
+
+------------------------------------------------------
+
+Raund 10
+Stegosaurus (Prey) moved to (5, 6)
+Allosaurus (Player/Predator) moved to (5, 9)
+Giganotosaurus (Apex) moved to (5, 8)
+Round 10 completed.
+
+------------------------------------------------------
+
+Raund 11
+Stegosaurus (Prey) moved to (4, 6)
+Allosaurus (Player/Predator) moved to (6, 9)
+Giganotosaurus (Apex) ATE Allosaurus at (6,9)
+Player loses -1 point.
+Giganotosaurus (Apex) moved to (6, 9)
+Round 11 completed.
+
+------------------------------------------------------
+
+Raund 12
+Stegosaurus (Prey) moved to (4, 7)
+Allosaurus (Player/Predator) moved to (1, 6)
+Giganotosaurus (Apex) moved to (5, 8)
+Round 12 completed.
+
+------------------------------------------------------
+
+Raund 13
+Stegosaurus (Prey) moved to (3, 6)
+Allosaurus (Player) ATE Stegosaurus at (3,6)
+Player gains +3 points.
+Allosaurus (Player/Predator) moved to (3, 6)
+Giganotosaurus (Apex) moved to (7, 8)
+Round 13 completed.
+
+------------------------------------------------------
+
+Raund 14
+Stegosaurus (Prey) moved to (6, 9)
+Allosaurus (Player/Predator) moved to (4, 5)
+Giganotosaurus (Apex) ATE Stegosaurus at (6,9)
+Giganotosaurus (Apex) moved to (6, 9)
+Round 14 completed.
+
+------------------------------------------------------
+
+Raund 15
+Stegosaurus (Prey) moved to (4, 8)
+Allosaurus (Player/Predator) moved to (5, 4)
+Giganotosaurus (Apex) moved to (5, 8)
+Round 15 completed.
+
+------------------------------------------------------
+
+=== GAME OVER ===
+
+Game Over! 
+Scores: 
+Predator: 1
+Prey: 1
+Apex: 3
+WINNER(S): 
+-> Apex Predator
+
+
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Wolf
+Mode: PRESENT, Grid: 10x10, Total Rounds: 10
+Food Chain Loaded: Polar Bear -> Wolf -> Deer -> Shrubs
+
+Raund 1
+Deer (Prey) moved to (3, 8)
+Wolf (Player/Predator) moved to (9, 4)
+Polar Bear (Apex) ATE Deer at (3,8)
+Polar Bear (Apex) moved to (3, 8)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Deer (Prey) moved to (7, 6)
+Wolf (Player/Predator) moved to (8, 4)
+Polar Bear (Apex) moved to (4, 7)
+Round 2 completed.
+
+------------------------------------------------------
+
+Raund 3
+Deer (Prey) moved to (6, 6)
+Wolf (Player/Predator) moved to (7, 4)
+Polar Bear (Apex) moved to (5, 6)
+Round 3 completed.
+
+------------------------------------------------------
+
+Raund 4
+Deer (Prey) moved to (7, 5)
+Wolf (Player) ATE Deer at (7,5)
+Player gains +3 points.
+Wolf (Player/Predator) moved to (7, 5)
+Polar Bear (Apex) moved to (6, 5)
+Round 4 completed.
+
+------------------------------------------------------
+
+Raund 5
+Deer (Prey) moved to (2, 5)
+Wolf (Player/Predator) moved to (5, 3)
+Polar Bear (Apex) ATE Wolf at (5,3)
+Player loses -1 point.
+Polar Bear (Apex) moved to (5, 3)
+Round 5 completed.
+
+------------------------------------------------------
+
+Raund 6
+Deer (Prey) moved to (3, 5)
+Wolf (Player/Predator) moved to (4, 8)
+Polar Bear (Apex) moved to (4, 4)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Deer (Prey) moved to (2, 6)
+Wolf (Player/Predator) moved to (3, 8)
+Polar Bear (Apex) moved to (3, 5)
+Round 7 completed.
+
+------------------------------------------------------
+
+Raund 8
+Deer (Prey) moved to (1, 7)
+Wolf (Player/Predator) moved to (2, 8)
+Polar Bear (Apex) moved to (2, 6)
+Round 8 completed.
+
+------------------------------------------------------
+
+Raund 9
+Deer (Prey) moved to (0, 5)
+Wolf (Player/Predator) moved to (3, 9)
+Polar Bear (Apex) ATE Deer at (0,5)
+Polar Bear (Apex) moved to (0, 5)
+Round 9 completed.
+
+------------------------------------------------------
+
+Raund 10
+Deer (Prey) ATE FOOD at (2,0)
+Deer (Prey) moved to (2, 0)
+Wolf (Player/Predator) moved to (4, 9)
+Polar Bear (Apex) moved to (1, 4)
+Round 10 completed.
+
+------------------------------------------------------
+
+=== GAME OVER ===
+
+Game Over! 
+Scores: 
+Predator: 2
+Prey: 0
+Apex: 3
+WINNER(S): 
+-> Apex Predator
+
+
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Alien Hunter
+Mode: FUTURE, Grid: 20x20, Total Rounds: 10
+Food Chain Loaded: Alien Overlord -> Alien Hunter -> Human -> Cow
+
+Raund 1
+Human (Prey) moved to (3, 14)
+Alien Hunter (Player/Predator) moved to (2, 4)
+Alien Overlord (Apex) moved to (12, 10)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Human (Prey) moved to (4, 13)
+Alien Hunter (Player/Predator) moved to (3, 5)
+Alien Overlord (Apex) moved to (11, 11)
+Round 2 completed.
+
+------------------------------------------------------
+
+Raund 3
+Human (Prey) moved to (5, 12)
+Alien Hunter (Player/Predator) moved to (4, 6)
+Alien Overlord (Apex) moved to (10, 12)
+Round 3 completed.
+
+------------------------------------------------------
+
+Raund 4
+Human (Prey) moved to (8, 10)
+Alien Hunter (Player/Predator) moved to (5, 8)
+Alien Overlord (Apex) moved to (9, 11)
+Round 4 completed.
+
+------------------------------------------------------
+
+Raund 5
+Human (Prey) moved to (7, 9)
+Alien Hunter (Player/Predator) moved to (6, 9)
+Alien Overlord (Apex) ATE Human at (7,9)
+Alien Overlord (Apex) moved to (7, 9)
+Round 5 completed.
+
+------------------------------------------------------
+
+Raund 6
+Human (Prey) moved to (11, 9)
+Alien Hunter (Player/Predator) moved to (5, 10)
+Alien Overlord (Apex) moved to (6, 10)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Human (Prey) moved to (8, 8)
+Alien Hunter (Player/Predator) moved to (3, 12)
+Alien Overlord (Apex) moved to (7, 9)
+Round 7 completed.
+
+------------------------------------------------------
+
+Raund 8
+Human (Prey) moved to (9, 7)
+Alien Hunter (Player/Predator) moved to (4, 13)
+Alien Overlord (Apex) moved to (8, 8)
+Round 8 completed.
+
+------------------------------------------------------
+
+Raund 9
+Human (Prey) moved to (10, 6)
+Alien Hunter (Player/Predator) moved to (5, 14)
+Alien Overlord (Apex) ATE Human at (10,6)
+Alien Overlord (Apex) moved to (10, 6)
+Round 9 completed.
+
+------------------------------------------------------
+
+Raund 10
+Human (Prey) moved to (11, 8)
+Alien Hunter (Player/Predator) moved to (7, 15)
+Alien Overlord (Apex) moved to (11, 7)
+Round 10 completed.
+
+------------------------------------------------------
+
+=== GAME OVER ===
+
+Game Over! 
+Scores: 
+Predator: 0
+Prey: -2
+Apex: 2
+WINNER(S): 
+-> Apex Predator
+
+
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Cheetah
+Mode: PRESENT, Grid: 15x15, Total Rounds: 10
+Food Chain Loaded: Lion -> Cheetah -> Bunny -> Grass
+
+Raund 1
+Bunny (Prey) moved to (4, 12)
+Alien Hunter (Player/Predator) moved to (2, 7)
+Alien Overlord (Apex) ATE Human at (11,6)
+Alien Overlord (Apex) moved to (11, 6)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Human (Prey) moved to (9, 8)
+Alien Hunter (Player/Predator) moved to (3, 7)
+Alien Overlord (Apex) moved to (10, 7)
+Round 7 completed.
+
+------------------------------------------------------
+
+Raund 8
+Human (Prey) moved to (8, 9)
+Alien Hunter (Player/Predator) moved to (4, 6)
+Alien Overlord (Apex) moved to (9, 8)
+Round 8 completed.
+
+------------------------------------------------------
+
+Raund 9
+Human (Prey) moved to (7, 10)
+Alien Hunter (Player/Predator) moved to (5, 4)
+Alien Overlord (Apex) moved to (8, 9)
+Round 9 completed.
+
+------------------------------------------------------
+
+Raund 10
+Human (Prey) moved to (6, 7)
+Alien Hunter (Player/Predator) moved to (6, 3)
+Alien Overlord (Apex) ATE Human at (6,7)
+Alien Overlord (Apex) moved to (6, 7)
+Round 10 completed.
+
+------------------------------------------------------
+
+Raund 11
+Human (Prey) STAYED STILL at (4,1)
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Cheetah
+Mode: PRESENT, Grid: 15x15, Total Rounds: 10
+Food Chain Loaded: Lion -> Cheetah -> Bunny -> Grass
+
+Raund 1
+Bunny (Prey) moved to (12, 9)
+Alien Hunter (Player/Predator) moved to (2, 3)
+Alien Overlord (Apex) ATE Human at (11,6)
+Alien Overlord (Apex) moved to (11, 6)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Human (Prey) moved to (9, 5)
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Alien Hunter
+Mode: FUTURE, Grid: 15x15, Total Rounds: 10
+Food Chain Loaded: Alien Overlord -> Alien Hunter -> Human -> Cow
+
+Raund 1
+Human (Prey) moved to (9, 11)
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Wolf
+Mode: PRESENT, Grid: 10x10, Total Rounds: 10
+Food Chain Loaded: Polar Bear -> Wolf -> Deer -> Shrubs
+
+Raund 1
+Deer (Prey) moved to (7, 2)
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Cheetah
+Mode: PRESENT, Grid: 15x15, Total Rounds: 15
+Food Chain Loaded: Lion -> Cheetah -> Bunny -> Grass
+
+Raund 1
+Bunny (Prey) moved to (7, 9)
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Allosaurus
+Mode: PAST, Grid: 10x10, Total Rounds: 12
+Food Chain Loaded: Giganotosaurus -> Allosaurus -> Stegosaurus -> Cycads
+
+Raund 1
+Stegosaurus (Prey) moved to (7, 2)
+Allosaurus (Player/Predator) moved to (4, 8)
+Giganotosaurus (Apex) moved to (5, 8)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Stegosaurus (Prey) moved to (6, 3)
+Allosaurus (Player/Predator) moved to (2, 8)
+Giganotosaurus (Apex) moved to (4, 8)
+Round 2 completed.
+
+------------------------------------------------------
+
+Raund 3
+Stegosaurus (Prey) moved to (5, 4)
+Allosaurus (Player/Predator) moved to (2, 7)
+Giganotosaurus (Apex) moved to (3, 7)
+Round 3 completed.
+
+------------------------------------------------------
+
+Raund 4
+Stegosaurus (Prey) ATE FOOD at (4,5)
+Stegosaurus (Prey) moved to (4, 5)
+Allosaurus (Player/Predator) moved to (1, 6)
+Giganotosaurus (Apex) moved to (3, 5)
+Round 4 completed.
+
+------------------------------------------------------
+
+Raund 5
+Stegosaurus (Prey) moved to (5, 6)
+Allosaurus (Player/Predator) moved to (1, 7)
+Giganotosaurus (Apex) moved to (4, 6)
+Round 5 completed.
+
+------------------------------------------------------
+
+Raund 6
+Stegosaurus (Prey) moved to (6, 7)
+Allosaurus (Player/Predator) moved to (2, 7)
+Giganotosaurus (Apex) moved to (3, 7)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Stegosaurus (Prey) moved to (5, 8)
+Allosaurus (Player/Predator) moved to (1, 8)
+Giganotosaurus (Apex) moved to (1, 7)
+Round 7 completed.
+
+------------------------------------------------------
+
+Raund 8
+Stegosaurus (Prey) moved to (6, 8)
+Allosaurus (Player/Predator) moved to (3, 8)
+Giganotosaurus (Apex) moved to (2, 8)
+Round 8 completed.
+
+------------------------------------------------------
+
+Raund 9
+Stegosaurus (Prey) moved to (5, 7)
+Allosaurus (Player/Predator) moved to (4, 9)
+Giganotosaurus (Apex) moved to (3, 9)
+Round 9 completed.
+
+------------------------------------------------------
+
+Raund 10
+Stegosaurus (Prey) moved to (6, 8)
+Allosaurus (Player/Predator) moved to (5, 8)
+Giganotosaurus (Apex) moved to (5, 9)
+Round 10 completed.
+
+------------------------------------------------------
+
+Raund 11
+Stegosaurus (Prey) moved to (7, 7)
+Allosaurus (Player/Predator) moved to (5, 6)
+Giganotosaurus (Apex) moved to (6, 8)
+Round 11 completed.
+
+------------------------------------------------------
+
+Raund 12
+Stegosaurus (Prey) moved to (8, 6)
+Allosaurus (Player/Predator) moved to (4, 6)
+Giganotosaurus (Apex) moved to (5, 7)
+Round 12 completed.
+
+------------------------------------------------------
+
+=== GAME OVER ===
+
+Game Over! 
+Scores: 
+Predator: 0
+Prey: 3
+Apex: 0
+WINNER(S): 
+-> Prey
+
+
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Wolf
+Mode: PRESENT, Grid: 15x15, Total Rounds: 10
+Food Chain Loaded: Polar Bear -> Wolf -> Deer -> Shrubs
+
+Raund 1
+Deer (Prey) moved to (0, 3)
+Wolf (Player/Predator) moved to (1, 2)
+Polar Bear (Apex) moved to (5, 3)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Deer (Prey) moved to (0, 4)
+Wolf (Player/Predator) moved to (1, 3)
+Polar Bear (Apex) moved to (4, 3)
+Round 2 completed.
+
+------------------------------------------------------
+
+Raund 3
+Deer (Prey) moved to (0, 5)
+Wolf (Player/Predator) moved to (1, 4)
+Polar Bear (Apex) moved to (3, 4)
+Round 3 completed.
+
+------------------------------------------------------
+
+Raund 4
+Deer (Prey) moved to (0, 6)
+Wolf (Player/Predator) moved to (1, 5)
+Polar Bear (Apex) moved to (2, 5)
+Round 4 completed.
+
+------------------------------------------------------
+
+Raund 5
+Deer (Prey) moved to (0, 7)
+Wolf (Player) ATE Deer at (0,7)
+Player gains +3 points.
+Wolf (Player/Predator) moved to (0, 7)
+Polar Bear (Apex) ATE Deer at (4,4)
+Polar Bear (Apex) moved to (4, 4)
+Round 5 completed.
+
+------------------------------------------------------
+
+Raund 6
+Deer (Prey) moved to (1, 11)
+Wolf (Player/Predator) moved to (1, 7)
+Polar Bear (Apex) moved to (3, 5)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Deer (Prey) moved to (1, 10)
+Wolf (Player/Predator) moved to (2, 7)
+Polar Bear (Apex) moved to (2, 6)
+Round 7 completed.
+
+------------------------------------------------------
+
+Raund 8
+Deer (Prey) moved to (0, 9)
+Wolf (Player/Predator) moved to (3, 5)
+Polar Bear (Apex) ATE Wolf at (3,5)
+Player loses -1 point.
+Polar Bear (Apex) moved to (3, 5)
+Round 8 completed.
+
+------------------------------------------------------
+
+Raund 9
+Deer (Prey) moved to (1, 7)
+Wolf (Player/Predator) moved to (12, 3)
+Polar Bear (Apex) ATE Deer at (1,7)
+Polar Bear (Apex) moved to (1, 7)
+Round 9 completed.
+
+------------------------------------------------------
+
+Raund 10
+Deer (Prey) moved to (0, 5)
+Wolf (Player/Predator) moved to (11, 3)
+Polar Bear (Apex) moved to (0, 6)
+Round 10 completed.
+
+------------------------------------------------------
+
+=== GAME OVER ===
+
+Game Over! 
+Scores: 
+Predator: 2
+Prey: -3
+Apex: 3
+WINNER(S): 
+-> Apex Predator
+
+
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Cheetah
+Mode: PRESENT, Grid: 10x10, Total Rounds: 15
+Food Chain Loaded: Lion -> Cheetah -> Bunny -> Grass
+
+Raund 1
+Bunny (Prey) moved to (3, 2)
+Cheetah (Player/Predator) moved to (2, 0)
+Lion (Apex) moved to (3, 3)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Bunny (Prey) moved to (4, 1)
+Cheetah (Player/Predator) moved to (1, 1)
+Lion (Apex) moved to (4, 2)
+Round 2 completed.
+
+------------------------------------------------------
+
+Raund 3
+Bunny (Prey) moved to (5, 0)
+Cheetah (Player/Predator) moved to (1, 2)
+Lion (Apex) moved to (5, 1)
+Round 3 completed.
+
+------------------------------------------------------
+
+Raund 4
+Bunny (Prey) moved to (6, 0)
+Cheetah (Player/Predator) moved to (1, 3)
+Lion (Apex) ATE Bunny at (6,0)
+Lion (Apex) moved to (6, 0)
+Round 4 completed.
+
+------------------------------------------------------
+
+Raund 5
+Bunny (Prey) moved to (2, 5)
+Cheetah (Player/Predator) moved to (2, 2)
+Lion (Apex) moved to (3, 2)
+Round 5 completed.
+
+------------------------------------------------------
+
+Raund 6
+Bunny (Prey) moved to (3, 4)
+Cheetah (Player/Predator) moved to (0, 0)
+Lion (Apex) moved to (3, 3)
+Round 6 completed.
+
+------------------------------------------------------
+
+Raund 7
+Bunny (Prey) moved to (4, 5)
+Cheetah (Player/Predator) moved to (1, 1)
+Lion (Apex) moved to (4, 4)
+Round 7 completed.
+
+------------------------------------------------------
+
+Raund 8
+Bunny (Prey) moved to (5, 6)
+Cheetah (Player/Predator) moved to (2, 2)
+Lion (Apex) moved to (5, 5)
+Round 8 completed.
+
+------------------------------------------------------
+
+Raund 9
+Bunny (Prey) moved to (7, 7)
+Cheetah (Player/Predator) moved to (3, 2)
+Lion (Apex) ATE Bunny at (7,7)
+Lion (Apex) moved to (7, 7)
+Round 9 completed.
+
+------------------------------------------------------
+
+Raund 10
+Bunny (Prey) moved to (1, 4)
+Cheetah (Player/Predator) moved to (4, 3)
+Lion (Apex) moved to (6, 6)
+Round 10 completed.
+
+------------------------------------------------------
+
+Raund 11
+Bunny (Prey) moved to (2, 5)
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Velociraptor
+Mode: PAST, Grid: 10x10, Total Rounds: 15
+Food Chain Loaded: T-Rex -> Velociraptor -> Triceratops -> Ferns
+
+Raund 1
+Triceratops (Prey) moved to (4, 8)
+Velociraptor (Player/Predator) moved to (4, 2)
+T-Rex (Apex) moved to (4, 7)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Triceratops (Prey) ATE FOOD at (4,9)
+Triceratops (Prey) moved to (4, 9)
+
+
+=========================================================
+=== NEW GAME STARTED ===
+The Player is playing predator with name: Wolf
+Mode: PRESENT, Grid: 10x10, Total Rounds: 15
+Food Chain Loaded: Polar Bear -> Wolf -> Deer -> Shrubs
+
+Raund 1
+Deer (Prey) moved to (4, 2)
+Wolf (Player/Predator) moved to (2, 8)
+Polar Bear (Apex) moved to (6, 4)
+Round 1 completed.
+
+------------------------------------------------------
+
+Raund 2
+Deer (Prey) STAYED STILL at (4,2)
+Wolf (Player/Predator) moved to (3, 7)
+Polar Bear (Apex) moved to (5, 3)
+Round 2 completed.
+
+------------------------------------------------------
+
+Raund 3
+Deer (Prey) moved to (3, 1)

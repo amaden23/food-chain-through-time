@@ -1,0 +1,7 @@
+MODE:FUTURE
+ROUND:6/15
+GRID SIZE:15
+ENTITY:ApexPredator;Alien Overlord;9;4;2;3
+ENTITY:Predator;Alien Hunter;0;5;2;1
+ENTITY:Prey;Human;11;6;-2;0
+FOOD:Cow;9;7
