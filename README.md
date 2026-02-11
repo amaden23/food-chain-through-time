@@ -4,7 +4,7 @@
 
 **"Try Not To Starve!"**
 
-This project is a turn-based ecosystem simulation game developed as a term project for the **Ko?? University COMP132 (Advanced Programming)** course. It is built using **Java Swing** and strictly adheres to **Object-Oriented Programming (OOP)** principles and the **Model-View-Controller (MVC)** architectural pattern.
+This project is a turn-based ecosystem simulation game developed as a term project for the **Koc University COMP132 (Advanced Programming)** course. It is built using **Java Swing** and strictly adheres to **Object-Oriented Programming (OOP)** principles and the **Model-View-Controller (MVC)** architectural pattern.
 
 ---
 
@@ -40,4 +40,5 @@ For a comprehensive technical overview, including UML diagrams and algorithm det
     * Includes a complete Save/Load system that serializes the game state (positions, scores, round number) to a text file.
 
 ---
+
 **Developer:** Ahmet Enes Maden
